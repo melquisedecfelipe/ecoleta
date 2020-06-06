@@ -84,6 +84,15 @@ $ cd ../frontend && npm i
 
 # Run frontend
 $ npm start
+
+# Go into the mobile and install dependencies
+$ cd ../mobile && npm i
+
+# Run app (ios)
+$ npm run ios
+
+# Run app (android)
+$ npm run android
 ```
 
 ## :memo: License
