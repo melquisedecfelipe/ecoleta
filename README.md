@@ -32,9 +32,11 @@ This project was developed with the following technologies:
 
 Backend
 
+- [Celebrate](https://github.com/arb/celebrate)
 - [Cors](https://github.com/expressjs/cors)
 - [Express](https://expressjs.com/)
 - [Knex](http://knexjs.org/)
+- [Multer](https://github.com/expressjs/multer)
 - [Typescript](https://www.typescriptlang.org/)
 
 Frontend
@@ -42,6 +44,7 @@ Frontend
 - [Axios](https://github.com/axios/axios)
 - [Leaflet](leafletjs)
 - [React](https://reactjs.org/)
+- [React dropzone](https://react-dropzone.js.org/)
 - [React icons](https://react-icons.netlify.com/)
 - [React router](https://reacttraining.com/react-router/)
 - [Typescript](https://www.typescriptlang.org/)
