@@ -37,6 +37,15 @@ Backend
 - [Knex](http://knexjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
+Frontend
+
+- [Axios](https://github.com/axios/axios)
+- [Leaflet](leafletjs)
+- [React](https://reactjs.org/)
+- [React icons](https://react-icons.netlify.com/)
+- [React router](https://reacttraining.com/react-router/)
+- [Typescript](https://www.typescriptlang.org/)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
@@ -59,6 +68,12 @@ $ npm run knex:seed
 
 # Run backend
 $ npm run dev
+
+# Go into the frontend and install dependencies
+$ cd ../frontend && npm i
+
+# Run frontend
+$ npm start
 ```
 
 ## :memo: License
